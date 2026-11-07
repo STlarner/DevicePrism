@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "lineLength": 80,
+    "indentation": {
+        "spaces": 4
+    },
+    "tabWidth": 4,
+    "lineBreakBeforeEachArgument": true,
+    "lineBreakBeforeEachGenericRequirement": true,
+    "respectsExistingLineBreaks": true,
+    "maximumBlankLines": 1
+}
